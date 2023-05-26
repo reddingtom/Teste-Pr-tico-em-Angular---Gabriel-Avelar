@@ -1,0 +1,25 @@
+.banner {
+    background-image: url(https://idocode.com.br/wp-content/uploads/2021/07/code-1839406_1920-1.jpg);
+    height: 610px;
+    background-position: center bottom;
+    background-size: cover;
+    filter: blur(4px);
+}
+
+.conteudo {
+    padding: 12%;
+
+}
+
+h1 {
+    font-family: serif;
+    font-weight: bold;
+    font-size: 57px;
+
+}
+
+p {
+    font-family: sans-serif;
+    font-size: x-large;
+
+}
